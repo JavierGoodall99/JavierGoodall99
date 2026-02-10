@@ -1,81 +1,20 @@
-<div align="center">
+[![MasterHead](https://firebasestorage.googleapis.com/v0/b/flexi-coding.appspot.com/o/dempgi7-520f8d5f-63d4-4453-8822-dbc149ae27f8.gif?alt=media&token=91c0c7b2-93c3-4029-b011-1a8703c5730d)](https://rishavchanda.io)
+<h1 align="center">Hi 👋, I'm Javier Goodall</h1>
+<h3 align="center">A passionate frontend software engineer from South Africa</h3>
 
-<!-- HERO SECTION: Using your GIF as a cinematic header -->
+- 👨‍💻 All of my projects are available at [https://javiergoodall.vercel.app/](https://javiergoodall.vercel.app/)
 
-<img src="https://firebasestorage.googleapis.com/v0/b/flexi-coding.appspot.com/o/dempgi7-520f8d5f-63d4-4453-8822-dbc149ae27f8.gif?alt=media&token=91c0c7b2-93c3-4029-b011-1a8703c5730d" width="100%" style="border-radius: 10px; margin-bottom: 20px;" alt="MasterHead" />
-
-<br />
-
-<!-- TYPOGRAPHY: Clean, centered, spaced out -->
-
-<h1 style="font-size: 50px; font-weight: bold; letter-spacing: 5px; margin-top: 0px;">JAVIER GOODALL</h1>
-<h3 style="font-weight: normal; color: #888;">FRONTEND SOFTWARE ENGINEER <br /> SOUTH AFRICA</h3>
-
-<br />
-
-<!-- INTERACTIVE LINKS: Minimalist text links -->
-
-<a href="https://javiergoodall.vercel.app/"><strong>PORTFOLIO</strong></a>
-  •  
-<a href="mailto:JAVIERGOODALL@OUTLOOK.COM"><strong>EMAIL</strong></a>
-  •  
-<a href="https://www.google.com/search?q=https://linkedin.com/in/javier-goodall/"><strong>LINKEDIN</strong></a>
-
-<br /><br />
-
-<p align="center" style="max-width: 600px;">
-<i>Crafting digital experiences with a focus on motion, interaction, and scalable architecture. 
+- 📫 How to reach me **JAVIERGOODALL@OUTLOOK.COM**
 
 
-
- currently open for new opportunities.</i>
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/javier-goodall/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/javier-goodall/" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/@javiergoodall23" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="@javiergoodall23" height="30" width="40" /></a>
 </p>
 
-<br />
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> <a href="https://vuejs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/> </a> <a href="https://www.adobe.com/products/xd.html" target="_blank" rel="noreferrer"> </a> </p>
 
-</div>
-
-<hr style="border-color: #333; opacity: 0.3;" />
-
-<br />
-
-<!-- TECH STACK: Using "For The Badge" style for a blocky, premium look -->
-
-<h3 align="center">THE ARSENAL</h3>
-<div align="center">
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/react-%252320232a.svg%3Fstyle%3Dfor-the-badge%26logo%3Dreact%26logoColor%3D%252361DAFB" height="35" alt="React" />
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/Next-black%3Fstyle%3Dfor-the-badge%26logo%3Dnext.js%26logoColor%3Dwhite" height="35" alt="Next JS" />
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/typescript-%2523007ACC.svg%3Fstyle%3Dfor-the-badge%26logo%3Dtypescript%26logoColor%3Dwhite" height="35" alt="TypeScript" />
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/tailwindcss-%252338B2AC.svg%3Fstyle%3Dfor-the-badge%26logo%3Dtailwind-css%26logoColor%3Dwhite" height="35" alt="Tailwind" />
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/azure-%25230072C6.svg%3Fstyle%3Dfor-the-badge%26logo%3Dmicrosoftazure%26logoColor%3Dwhite" height="35" alt="Azure" />
-<br />
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/figma-%2523F24E1E.svg%3Fstyle%3Dfor-the-badge%26logo%3Dfigma%26logoColor%3Dwhite" height="35" alt="Figma" />
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/node.js-6DA55F%3Fstyle%3Dfor-the-badge%26logo%3Dnode.js%26logoColor%3Dwhite" height="35" alt="NodeJS" />
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/mysql-%252300f.svg%3Fstyle%3Dfor-the-badge%26logo%3Dmysql%26logoColor%3Dwhite" height="35" alt="MySQL" />
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/react_native-%252320232a.svg%3Fstyle%3Dfor-the-badge%26logo%3Dreact%26logoColor%3D%252361DAFB" height="35" alt="React Native" />
-</div>
-
-<br /><br />
-
-<!-- CONNECT SECTION: Minimalist Grid -->
-
-<h3 align="center">CONNECT</h3>
-<div align="center">
-<a href="https://www.google.com/search?q=https://linkedin.com/in/javier-goodall/" target="blank">
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/LinkedIn-0077B5%3Fstyle%3Dfor-the-badge%26logo%3Dlinkedin%26logoColor%3Dwhite" alt="LinkedIn" height="40" />
-</a>
-<a href="https://www.hackerrank.com/@javiergoodall23" target="blank">
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/-Hackerrank-2EC866%3Fstyle%3Dfor-the-badge%26logo%3DHackerRank%26logoColor%3Dwhite" alt="HackerRank" height="40" />
-</a>
-<a href="https://www.buymeacoffee.com/javiergoodall">
-<img src="https://img.shields.io/badge/Buy_Me_A_Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" height="40" alt="Buy Me A Coffee" />
-</a>
-</div>
-
-<br /><br />
-
-<!-- FOOTER -->
-
-<div align="center">
-<img src="https://www.google.com/search?q=https://komarev.com/ghpvc/%3Fusername%3Djaviergoodall%26style%3Dflat-square%26color%3Dblueviolet" alt="Profile Views" />
-</div>
+<h3 align="left">Support:</h3>
+<p><a href="https://www.buymeacoffee.com/javiergoodall"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="javiergoodall" /></a></p><br><br>
