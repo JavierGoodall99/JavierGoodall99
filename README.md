@@ -1,83 +1,134 @@
-<!-- Premium header -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,100:1E293B&height=180&section=header&text=Javier%20Goodall&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Frontend%20Engineer%20•%20South%20Africa&descAlignY=55&descSize=18"/>
+<div align="center">
+  
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=36&duration=2800&pause=500&color=00C7FF&center=true&vCenter=true&width=700&lines=Hi%2C+I'm+Javier+Goodall;Frontend+Engineer+from+South+Africa;Crafting+Digital+Experiences;Blending+Code+%2B+Design+%2B+Story)](https://git.io/typing-svg)
+
+</div>
+
+<br />
 
 <div align="center">
   
-  [![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=22&pause=1000&color=38BDF8&center=true&vCenter=true&width=650&lines=Building+pixel-perfect+web+experiences;React+%E2%80%A2+Next.js+%E2%80%A2+TypeScript;Design+engineer+from+Franschhoek)](https://git.io/typing-svg)
+  *“Design is not just what it looks like and feels like. Design is how it works.” — Steve Jobs*
+  
+</div>
 
-  <p>Frontend software engineer obsessed with craft, performance, and details users feel but never notice.</p>
+<br />
 
-  <a href="https://javiergoodall.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/></a>
-  <a href="https://www.linkedin.com/in/javier-goodall/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-  <a href="mailto:JAVIERGOODALL@OUTLOOK.COM"><img src="https://img.shields.io/badge/Email-38BDF8?style=for-the-badge&logo=microsoftoutlook&logoColor=white" alt="Email"/></a>
-  <a href="https://www.hackerrank.com/javiergoodall23"><img src="https://img.shields.io/badge/HackerRank-00EA64?style=for-the-badge&logo=hackerrank&logoColor=black" alt="HackerRank"/></a>
+---
+
+<br />
+
+<div align="center">
+  
+  ![Visitor](https://visitor-badge.laobi.icu/badge?page_id=JavierGoodall.JavierGoodall&style=for-the-badge&color=00C7FF)
+  ![GitHub followers](https://img.shields.io/github/followers/JavierGoodall?style=for-the-badge&color=00C7FF)
+  ![GitHub User's stars](https://img.shields.io/github/stars/JavierGoodall?style=for-the-badge&color=00C7FF)
+  
+</div>
+
+<br />
+
+## ✦ About Me
+
+I don't just write code — I compose digital symphonies.  
+As a frontend engineer, I fuse pixel‑perfect design with fluid interactivity, making the web feel like magic.  
+Every interface I build tells a story, every animation breathes life, and every line of code is intentional.
+
+- 🧬 **Mission** – Turn complex ideas into intuitive, breathtaking interfaces.  
+- 🎨 **Philosophy** – Minimalism with soul; less noise, more meaning.  
+- 🚀 **Current focus** – Building progressive web apps that feel native and unforgettable.  
+- 🌍 **Portfolio** – [**javiergoodall.vercel.app**](https://javiergoodall.vercel.app/)
+
+---
+
+<br />
+
+## 🏆 GitHub Performance (Live)
+
+<div align="center">
+  
+  ![Javier's GitHub stats](https://github-readme-stats.vercel.app/api?username=JavierGoodall&show_icons=true&theme=radical&hide_border=true&count_private=true)
+  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JavierGoodall&layout=compact&theme=radical&hide_border=true)
+  
+</div>
+
+<div align="center">
+  
+  ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=JavierGoodall&theme=radical&hide_border=true)
+  
+</div>
+
+<div align="center">
+  
+  ![Trophy](https://github-profile-trophy.vercel.app/?username=JavierGoodall&theme=radical&no-frame=true&row=1&column=7)
+  
 </div>
 
 ---
 
-### About
+<br />
 
-I am Javier, a passionate frontend engineer from South Africa. I turn complex problems into elegant interfaces.
+## ⚡ Tech Constellation
 
-My work lives at the intersection of design and engineering: fast, accessible, and built with intention. I currently focus on React ecosystems, design systems, and shipping products that feel award-worthy.
-
-**Currently:** building select client projects and refining my personal design language at [javiergoodall.vercel.app](https://javiergoodall.vercel.app)
-
----
-
-### Tech Stack
-
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,vue,tailwind,bootstrap,html,css,figma,xd,git,azure,mysql,postman&perline=8" />
-  </a>
-</p>
+*Every tool is a star in the universe I build with.*
 
 <div align="center">
-<sub>Typescript • Javascript • React • Next.js • Vue • Tailwind • Bootstrap • HTML5 • CSS3 • Figma • Adobe XD • Git • Azure • MySQL • Postman</sub>
+
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D)
+![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+
 </div>
 
 ---
 
-### Featured Work
+<br />
 
-<table>
-<tr>
-<td width="50%">
-<h3>Portfolio OS</h3>
-<p>My personal playground for interaction design, 3D, and performance experiments. Built with Next.js 14, Framer Motion, and edge functions.</p>
-<p><a href="https://javiergoodall.vercel.app/">Live →</a></p>
-</td>
-<td width="50%">
-<h3>Craft Lab</h3>
-<p>A collection of UI components engineered for speed and accessibility. Design tokens, dark mode, and zero-runtime CSS.</p>
-<p><a href="https://javiergoodall.vercel.app/">Explore →</a></p>
-</td>
-</tr>
-</table>
+## 📬 Let’s Connect
 
-> Replace the two cards above with your best case studies. Awwwards judges score narrative over quantity.
-
----
-
-### Design Philosophy
-
-- **Clarity over cleverness.** If it needs explaining, redesign it.
-- **Performance is design.** 60fps, <100ms interaction, accessible by default.
-- **Details compound.** Micro-interactions, empty states, and error handling win awards.
-
----
-
-### Connect
-
-I am open to freelance, collaborations, and interesting problems.
-
-📫 **JAVIERGOODALL@OUTLOOK.COM**
-
----
+*Great things happen when creativity meets collaboration.*
 
 <div align="center">
-  <a href="https://www.buymeacoffee.com/javiergoodall"><img src="https://img.shields.io/badge/Support_My_Work-FFDD00?style=for-the-badge&logo=buymeacoffee&logoColor=black" alt="Buy Me A Coffee"/></a>
-  <br/><br/>
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,100:1E293B&height=120&section=footer"/>
+  
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-Javier_Goodall-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/javier-goodall/)
+  [![HackerRank](https://img.shields.io/badge/HackerRank-@javiergoodall23-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white)](https://www.hackerrank.com/@javiergoodall23)
+  [![Email](https://img.shields.io/badge/Email-JAVIERGOODALL@OUTLOOK.COM-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](mailto:JAVIERGOODALL@OUTLOOK.COM)
+  
+</div>
+
+<br />
+
+---
+
+<br />
+
+## ☕ Support My Work
+
+If my creations inspire you, buy me a coffee and fuel the next breakthrough.
+
+<div align="center">
+  
+  [![Buy Me A Coffee](https://img.shields.io/badge/Buy_Me_A_Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://www.buymeacoffee.com/javiergoodall)
+  
+</div>
+
+<br />
+
+<div align="center">
+  
+  ![Footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer)
+  
 </div>
