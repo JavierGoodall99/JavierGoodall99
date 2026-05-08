@@ -1,20 +1,83 @@
-[![MasterHead](https://firebasestorage.googleapis.com/v0/b/flexi-coding.appspot.com/o/dempgi7-520f8d5f-63d4-4453-8822-dbc149ae27f8.gif?alt=media&token=91c0c7b2-93c3-4029-b011-1a8703c5730d)](https://rishavchanda.io)
-<h1 align="center">Hi 👋, I'm Javier Goodall</h1>
-<h3 align="center">A passionate frontend software engineer from South Africa</h3>
+<!-- Premium header -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,100:1E293B&height=180&section=header&text=Javier%20Goodall&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Frontend%20Engineer%20•%20South%20Africa&descAlignY=55&descSize=18"/>
 
-- 👨‍💻 All of my projects are available at [https://javiergoodall.vercel.app/](https://javiergoodall.vercel.app/)
+<div align="center">
+  
+  [![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=22&pause=1000&color=38BDF8&center=true&vCenter=true&width=650&lines=Building+pixel-perfect+web+experiences;React+%E2%80%A2+Next.js+%E2%80%A2+TypeScript;Design+engineer+from+Franschhoek)](https://git.io/typing-svg)
 
-- 📫 How to reach me **JAVIERGOODALL@OUTLOOK.COM**
+  <p>Frontend software engineer obsessed with craft, performance, and details users feel but never notice.</p>
 
+  <a href="https://javiergoodall.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/></a>
+  <a href="https://www.linkedin.com/in/javier-goodall/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="mailto:JAVIERGOODALL@OUTLOOK.COM"><img src="https://img.shields.io/badge/Email-38BDF8?style=for-the-badge&logo=microsoftoutlook&logoColor=white" alt="Email"/></a>
+  <a href="https://www.hackerrank.com/javiergoodall23"><img src="https://img.shields.io/badge/HackerRank-00EA64?style=for-the-badge&logo=hackerrank&logoColor=black" alt="HackerRank"/></a>
+</div>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/javier-goodall/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/javier-goodall/" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/@javiergoodall23" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="@javiergoodall23" height="30" width="40" /></a>
+---
+
+### About
+
+I am Javier, a passionate frontend engineer from South Africa. I turn complex problems into elegant interfaces.
+
+My work lives at the intersection of design and engineering: fast, accessible, and built with intention. I currently focus on React ecosystems, design systems, and shipping products that feel award-worthy.
+
+**Currently:** building select client projects and refining my personal design language at [javiergoodall.vercel.app](https://javiergoodall.vercel.app)
+
+---
+
+### Tech Stack
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,vue,tailwind,bootstrap,html,css,figma,xd,git,azure,mysql,postman&perline=8" />
+  </a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> <a href="https://vuejs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/> </a> <a href="https://www.adobe.com/products/xd.html" target="_blank" rel="noreferrer"> </a> </p>
+<div align="center">
+<sub>Typescript • Javascript • React • Next.js • Vue • Tailwind • Bootstrap • HTML5 • CSS3 • Figma • Adobe XD • Git • Azure • MySQL • Postman</sub>
+</div>
 
-<h3 align="left">Support:</h3>
-<p><a href="https://www.buymeacoffee.com/javiergoodall"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="javiergoodall" /></a></p><br><br>
+---
+
+### Featured Work
+
+<table>
+<tr>
+<td width="50%">
+<h3>Portfolio OS</h3>
+<p>My personal playground for interaction design, 3D, and performance experiments. Built with Next.js 14, Framer Motion, and edge functions.</p>
+<p><a href="https://javiergoodall.vercel.app/">Live →</a></p>
+</td>
+<td width="50%">
+<h3>Craft Lab</h3>
+<p>A collection of UI components engineered for speed and accessibility. Design tokens, dark mode, and zero-runtime CSS.</p>
+<p><a href="https://javiergoodall.vercel.app/">Explore →</a></p>
+</td>
+</tr>
+</table>
+
+> Replace the two cards above with your best case studies. Awwwards judges score narrative over quantity.
+
+---
+
+### Design Philosophy
+
+- **Clarity over cleverness.** If it needs explaining, redesign it.
+- **Performance is design.** 60fps, <100ms interaction, accessible by default.
+- **Details compound.** Micro-interactions, empty states, and error handling win awards.
+
+---
+
+### Connect
+
+I am open to freelance, collaborations, and interesting problems.
+
+📫 **JAVIERGOODALL@OUTLOOK.COM**
+
+---
+
+<div align="center">
+  <a href="https://www.buymeacoffee.com/javiergoodall"><img src="https://img.shields.io/badge/Support_My_Work-FFDD00?style=for-the-badge&logo=buymeacoffee&logoColor=black" alt="Buy Me A Coffee"/></a>
+  <br/><br/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,100:1E293B&height=120&section=footer"/>
+</div>
