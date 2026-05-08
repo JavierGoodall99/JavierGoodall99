@@ -1,31 +1,29 @@
 <div align="center">
-  <img src="hero.jpg" width="100%" alt="Javier Goodall — Frontend Engineer" />
-</div>
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=IBM+Plex+Mono&size=18&duration=3000&pause=800&color=A1A1AA&center=true&vCenter=true&width=700&lines=I+don't+build+websites.+I+craft+digital+experiences.;Frontend+Engineer+from+Franschhoek%2C+South+Africa;React+%E2%80%A2+Next.js+%E2%80%A2+TypeScript+%E2%80%A2+Design+Systems" alt="typing" />
-</p>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,100:111111&height=340&section=header&text=JAVIER%20GOODALL&fontSize=68&fontColor=ffffff&fontAlign=50&fontAlignY=42&desc=Frontend%20Engineer%20%E2%80%94%20Franschhoek%2C%20South%20Africa&descAlignY=58&descAlign=50&descSize=17&animation=fadeIn" />
 
-<div align="center">
-  <a href="https://javiergoodall.vercel.app">portfolio</a> &nbsp; • &nbsp;
-  <a href="mailto:JAVIERGOODALL@OUTLOOK.COM">email</a> &nbsp; • &nbsp;
-  <a href="https://www.linkedin.com/in/javier-goodall/">linkedin</a> &nbsp; • &nbsp;
-  <a href="https://www.hackerrank.com/javiergoodall23">hackerrank</a>
-</div>
+<img src="https://readme-typing-svg.demolab.com?font=IBM+Plex+Mono&weight=400&size=19&duration=2800&pause=900&color=9CA3AF&center=true&vCenter=true&width=720&lines=I+don't+build+websites.+I+craft+digital+experiences.;React+%E2%80%A2+Next.js+%E2%80%A2+TypeScript+%E2%80%A2+Design+Systems;Available+for+select+work+Q3+2026" />
 
 <br>
+
+<a href="https://javiergoodall.vercel.app">portfolio</a> &nbsp;&nbsp;·&nbsp;&nbsp;
+<a href="mailto:JAVIERGOODALL@OUTLOOK.COM">email</a> &nbsp;&nbsp;·&nbsp;&nbsp;
+<a href="https://www.linkedin.com/in/javier-goodall/">linkedin</a> &nbsp;&nbsp;·&nbsp;&nbsp;
+<a href="https://www.hackerrank.com/javiergoodall23">hackerrank</a>
+
+</div>
 
 ---
 
 ### 00 — MANIFESTO
 
-> Most frontend is forgettable. Mine is not.
+I am Javier, a passionate frontend software engineer from South Africa.
 
-I am Javier, a passionate frontend software engineer from South Africa. I work at the intersection of code and craft — where performance is design, accessibility is non-negotiable, and every pixel has a reason.
+Most work is fast. Mine is inevitable — interfaces that load in under 2 seconds, score 100 on accessibility, and feel like they were designed, not assembled.
 
-I build for founders and teams who want their product to *feel* award-winning before it ever enters Awwwards.
+I work with founders who want their product to feel award-winning before it ever sees a jury.
 
-**Currently accepting select projects for Q3 2026.**
+> **Currently:** Building Portfolio OS and taking on 2 client builds.
 
 ---
 
@@ -33,34 +31,37 @@ I build for founders and teams who want their product to *feel* award-winning be
 
 <table>
 <tr>
-<td width="33%" valign="top">
-<h3>Portfolio OS</h3>
-<p>A living design system. Next.js 14, App Router, edge-rendered, 100 Lighthouse.</p>
-<p><b>→</b> <a href="https://jaygood.com/">Live case study</a></p>
-<sub>Design • Engineering • Motion</sub>
+<td width="50%" valign="top">
+
+#### Portfolio OS
+Next.js 14, edge functions, view transitions. A living case study in performance and craft.
+
+**→** [javiergoodall.vercel.app](https://javiergoodall.vercel.app/)
+
+`design` `engineering` `motion`
+
 </td>
-<td width="33%" valign="top">
-<h3>Craft Lab</h3>
-<p>Component library engineered for 60fps interactions and zero-layout-shift.</p>
-<p><b>→</b> <a href="https://javiergoodall.vercel.app/">View components</a></p>
-<sub>React • TypeScript • Tailwind</sub>
-</td>
-<td width="33%" valign="top">
-<h3>Interface Experiments</h3>
-<p>R&D for glass morphism, scroll-driven animations, and view transitions.</p>
-<p><b>→</b> <a href="https://javiergoodall.vercel.app/">Explore</a></p>
-<sub>Framer Motion • WebGL • GSAP</sub>
+<td width="50%" valign="top">
+
+#### Craft Lab
+A component system built for 60fps. No layout shift, full keyboard support, dark mode native.
+
+**→** [Explore the lab](https://javiergoodall.vercel.app/)
+
+`react` `typescript` `tailwind`
+
 </td>
 </tr>
 </table>
 
 <details>
-<summary><b>View process →</b></summary>
+<summary>process</summary>
+
 <br>
 
 ```mermaid
 graph LR
-A[Research] --> B[Prototype]
-B --> C[Craft]
-C --> D[Polish]
-D --> E[Ship]
+    A[Discover] --> B[Prototype in code]
+    B --> C[Craft details]
+    C --> D[Measure: LCP, INP, CLS]
+    D --> E[Ship]
