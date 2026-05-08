@@ -6,7 +6,7 @@
 
 <br>
 
-<a href="https://javiergoodall.vercel.app">portfolio</a> &nbsp;&nbsp;·&nbsp;&nbsp;
+<a href="https://jaygood.com/">portfolio</a> &nbsp;&nbsp;·&nbsp;&nbsp;
 <a href="mailto:JAVIERGOODALL@OUTLOOK.COM">email</a> &nbsp;&nbsp;·&nbsp;&nbsp;
 <a href="https://www.linkedin.com/in/javier-goodall/">linkedin</a> &nbsp;&nbsp;·&nbsp;&nbsp;
 <a href="https://www.hackerrank.com/javiergoodall23">hackerrank</a>
@@ -23,7 +23,7 @@ Most work is fast. Mine is inevitable — interfaces that load in under 2 second
 
 I work with founders who want their product to feel award-winning before it ever sees a jury.
 
-> **Currently:** Building Portfolio OS and taking on 2 client builds.
+> **Currently:** Building JayGood Agency and taking on 2 client builds.
 
 ---
 
@@ -33,22 +33,22 @@ I work with founders who want their product to feel award-winning before it ever
 <tr>
 <td width="50%" valign="top">
 
-#### Portfolio OS
-Next.js 14, edge functions, view transitions. A living case study in performance and craft.
+#### Portfolio / JayGood
+Next.js, Edge Functions, View Transitions. A living case study in performance and craft.
 
-**→** [javiergoodall.vercel.app](https://javiergoodall.vercel.app/)
+**→** [jaygood.com](https://jaygood.com/)
 
 `design` `engineering` `motion`
 
 </td>
 <td width="50%" valign="top">
 
-#### Craft Lab
-A component system built for 60fps. No layout shift, full keyboard support, dark mode native.
+#### Retro Rise
+A high-fidelity web experience. Optimized for performance and interactive engagement.
 
-**→** [Explore the lab](https://javiergoodall.vercel.app/)
+**→** [Play Retro Rise](https://fliply-dba75.web.app/)
 
-`react` `typescript` `tailwind`
+`react` `typescript` `gaming`
 
 </td>
 </tr>
